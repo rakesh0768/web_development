@@ -1,0 +1,30 @@
+h1{
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+
+}
+table{
+  margin: auto;
+}
+th{
+  border: 10px solid white;
+  height: 150px;
+  width: 100px;
+}
+#a{
+  background-color: #75dbcd;
+}
+#b{
+  background-color: #c9dbba;
+}
+#c{
+  background-color: #DCDBA8;
+}
+
+#d{
+  background-color: #F5CDA7;
+}
+
+#e{
+  background-color: #FAA381;
+}
